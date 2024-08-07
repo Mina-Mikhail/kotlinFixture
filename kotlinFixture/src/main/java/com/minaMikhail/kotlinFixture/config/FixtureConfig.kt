@@ -43,8 +43,8 @@ internal const val END_DUMMY_SECOND = 59
 internal const val START_DUMMY_NANO_SECOND = 0
 internal const val END_DUMMY_NANO_SECOND = 1000
 
-internal val SMALL_CHARACTERS = ('a'..'z')
-internal val CAPITAL_CHARACTERS = ('A'..'Z')
+internal val SMALL_CHARACTERS = 'a'..'z'
+internal val CAPITAL_CHARACTERS = 'A'..'Z'
 
 internal val CHAR_POOL = SMALL_CHARACTERS + CAPITAL_CHARACTERS
 
